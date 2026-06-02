@@ -2,11 +2,9 @@
 
 ## 🚀 About This Project
 
-This project explores how social media content performs across different platforms by analyzing engagement patterns such as likes, comments, shares, and overall interaction trends.
-
-The goal is to understand what type of content works best, which platforms drive the most engagement, and how user interaction changes over time.
-
-The project follows a complete analytics workflow including **data cleaning in Python, SQL-based validation, and dashboard creation in Power BI**.
+- This project explores how social media content performs across different platforms by analyzing engagement patterns such as likes, comments, shares, and overall interaction trends.
+- The goal is to understand what type of content works best, which platforms drive the most engagement, and how user interaction changes over time.
+- The project follows a complete analytics workflow including **data cleaning in Python, SQL-based validation, and dashboard creation in Power BI**.
 
 ---
 
@@ -90,11 +88,11 @@ An interactive dashboard was built with:
 
 ## 📁 Project Files
 
-- social_media_analysis_data.csv  
+- Social_Media_Analysis.csv  
 - social_media_growth_insights.ipynb  
 - social_media_queries.sql  
 - social_media_dashboard.pbix  
-- dashboard_preview.png  
+- Dashboard_Preview.png  
 
 ---
 
