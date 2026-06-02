@@ -104,7 +104,7 @@ An interactive dashboard was built with:
 
 ---
 
-## 🧠 Skills Applied
+## 🧠 Skills Demonstrated
 
 - Data Cleaning & Wrangling  
 - Exploratory Data Analysis  
