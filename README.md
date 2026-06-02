@@ -125,6 +125,6 @@ GitHub: https://github.com/AdityaSakhuja18
 
 ---
 
-## ⭐ Final Note
+## ⭐ Project Impact
 
 This project is part of my data analytics portfolio and demonstrates how raw social media data can be transformed into meaningful insights that support decision-making.
