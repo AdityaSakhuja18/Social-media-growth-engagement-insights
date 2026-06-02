@@ -88,11 +88,11 @@ An interactive dashboard was built with:
 
 ## 📁 Project Files
 
-- Social_Media_Analysis.csv  
-- social_media_growth_insights.ipynb  
-- social_media_queries.sql  
-- social_media_dashboard.pbix  
-- Dashboard_Preview.png  
+- 📊 `Dashboard_Preview.png` – Final Power BI dashboard snapshot  
+- 📄 `Social_Media_Analysis.csv` – Raw dataset used for analysis  
+- 🗄️ `Social_Media_Analysis.Sql.sql` – SQL queries for data validation and insights  
+- 📊 `Social_Media_Engagement_Dashboard.pbix` – Interactive Power BI dashboard file  
+- 📓 `Social_Media_Growth_Insights.ipynb` – Python notebook for data cleaning and analysis  
 
 ---
 
