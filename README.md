@@ -1,55 +1,114 @@
-# Social Media Growth & Engagement Insights
+# 📊 Social Media Growth & Engagement Insights
 
-## 📌 Project Overview
-This project delivers an end-to-end data analytics solution designed to evaluate social media performance across multiple platforms (YouTube, Instagram, Medium, and LinkedIn). Utilizing a dataset of 10,000 posts, the pipeline covers **Python-based data engineering**, **SQL validation**, and **Power BI business intelligence reporting** to uncover actionable growth trends, high-performing content formats, and engagement mechanics.
+## 🚀 Project Overview
+This project presents an end-to-end social media analytics solution to analyze user engagement and content performance across platforms such as YouTube, Instagram, LinkedIn, and Medium.
 
----
-
-## 🛠️ Tech Stack & Tools Used
-* **Data Cleaning & Exploration:** Python (`pandas`, `Jupyter Notebook`)
-* **Database & Query Validation:** MySQL
-* **Business Intelligence & Visualization:** Power BI (DAX, Interactive Dashboards)
-* **Version Control:** Git & GitHub
+Using a dataset of **10,000+ social media posts**, the project combines **Python for data processing**, **SQL for validation and querying, and Power BI for interactive dashboard creation** to extract actionable insights on engagement trends, platform performance, and content effectiveness.
 
 ---
 
-## 🚀 Key Features & Workflow
-
-### 1. Data Cleaning & Engineering (Python)
-* Processed and cleaned a 10,000-row social media performance dataset using `pandas`.
-* Handled missing values, inspected data distributions, and verified structural integrity.
-* Engineered a composite metric, `Total Engagement`, calculated as:
-  $$\text{Total Engagement} = \text{Likes} + \text{Comments} + \text{Shares}$$
-
-### 2. Database Validation & Advanced Querying (SQL)
-* Mirrored the processed data structures in a MySQL database environment.
-* Wrote optimized SQL scripts to extract high-value business insights, including top-performing posts, platform-wise aggregates, and regional trends.
-
-### 3. Business Intelligence Dashboard (Power BI)
-* Developed custom **DAX measures** to accurately track high-level key performance indicators (KPIs).
-* Built an interactive, dynamic layout implementing advanced cross-filtering, regional slices, and language deep-dives.
+## 📂 Dataset Information
+- 📌 Total Records: 10,000+
+- 🧾 Dataset Type: Social Media Performance Dataset  
+- 🧩 Key Features:
+  - Likes, Comments, Shares  
+  - Platform (YouTube, Instagram, LinkedIn, etc.)  
+  - Content Type (Video, Image, Text, Reel)  
+  - Posting Date  
+  - Region-wise engagement  
+  - Engagement metrics  
 
 ---
 
-## 📊 Executive Dashboard Preview
-The interactive dashboard provides a comprehensive view of global performance metrics:
-
-![Dashboard Preview](Dashboard_Preview.png)
-
-### 📈 Core Business Insights Uncovered (From the Dashboard)
-
-* **High-Level KPIs:** Across all platforms, the content generated a massive **2 Billion Total Views**, **152 Million Total Likes**, and **234 Million Total Engagements**, maintaining a steady **0.11 Average Engagement Rate**.
-* **Platform Dominance (Views vs. Engagement):** 
-  * **YouTube** drastically leads audience reach with **1.29 Billion views**, followed by **Instagram (0.64 Billion)**. 
-  * In terms of interaction breakdowns, YouTube secures **76M Likes**, **29M Shares**, and **12M Comments**, outperforming Instagram's **63M Likes**, **24M Comments**, and **10M Shares**.
-* **Content Formats:** **Video** is the undisputed king of performance, securing an overwhelming **117 Million total engagements**—nearly four times higher than the second-best format, **Stories (28M)**. 
-* **Global & Temporal Trends:** 
-  * Engagement is remarkably well-distributed globally, led by **France (26M)**, the **US (25M)**, and **Germany (25M)**.
-  * Seasonality tracking throughout the year highlights peak engagement periods in **May (21.1M)** and **August (22.0M)**.
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib)  
+- MySQL (SQL Queries & Validation)  
+- Power BI (Dashboard Development)  
+- DAX (KPIs & Measures)  
+- Excel  
 
 ---
 
-## 📈 Future Enhancements
-* Implement predictive modeling using machine learning to forecast a post's engagement score prior to publishing.
-* Integrate automated ETL pipelines via Apache Airflow to ingest live-streaming social API data.
-* Incorporate NLP sentiment analysis directly from comment text fields.
+## ❓ Key Business Questions
+- Which platform drives the highest engagement?
+- Which content type performs best?
+- How does posting time impact engagement?
+- Which regions show maximum interaction?
+- What are the overall engagement trends?
+
+---
+
+## 📊 Analysis Workflow
+
+### Data Cleaning & Preparation
+- Cleaned dataset using Python (Pandas)
+- Handled missing values and duplicates
+- Created KPI: Total Engagement = Likes + Comments + Shares
+
+### Exploratory Data Analysis (EDA)
+- Platform-wise engagement comparison
+- Content type analysis
+- Top-performing posts identification
+- Engagement trend analysis
+
+### SQL Analysis
+- Platform ranking queries
+- Top posts extraction
+- Aggregate engagement analysis
+- Trend-based SQL queries
+
+### Power BI Dashboard
+- Interactive dashboard with slicers and filters
+- KPI cards using DAX
+- Drill-down analysis for insights
+- Visualized platform and content performance
+
+---
+
+## 📌 Key KPIs
+- Total Engagement  
+- Average Engagement Rate  
+- Platform Performance  
+- Content Type Performance  
+- Engagement Trends  
+- Regional Distribution  
+
+---
+
+## 📁 Project Files
+- social_media_analysis_data.csv  
+- social_media_growth_insights.ipynb  
+- social_media_queries.sql  
+- social_media_dashboard.pbix  
+- dashboard_preview.png  
+
+---
+
+## 📸 Dashboard Preview
+<p align="center">
+  <img src="dashboard_preview.png" width="850"/>
+</p>
+
+---
+
+## 🧠 Skills Demonstrated
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- SQL Querying & Validation  
+- Data Visualization  
+- Power BI Dashboard Development  
+- KPI Design (DAX)  
+- Business Intelligence  
+
+---
+
+## 👨‍💻 Author
+**Aditya Sakhuja**
+
+LinkedIn: https://www.linkedin.com/in/aditya-sakhuja-508b33274/  
+GitHub: https://github.com/AdityaSakhuja18  
+
+---
+
+## ⭐ Project Impact
+This project demonstrates an end-to-end analytics pipeline that transforms raw social media data into actionable business insights using Python, SQL, and Power BI.
