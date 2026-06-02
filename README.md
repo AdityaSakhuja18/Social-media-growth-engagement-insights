@@ -86,7 +86,7 @@ Using a dataset of **10,000+ social media posts**, the project combines **Python
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="dashboard_preview.png" width="850"/>
+  <img src="Dashboard_Preview.png" width="850"/>
 </p>
 
 ---
